@@ -1,4 +1,6 @@
 # add the following to _config.yml file
+
+logo: /images/headshot.jpg
 title: Cristian Cuadrado Conde
 theme: jekyll-theme-minimal
 

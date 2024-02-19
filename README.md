@@ -1,3 +1,4 @@
+# MlOps and Computer Vision Engineer
 MLOps Engineer specializing in image processing, with experience in audio and text domains. Knowledgeable in Cloud technologies (AWS and Azure) to bolster professional capabilities.
 
 With 8 years in artificial intelligence, I consider myself a knowledgeable professional deeply interested in its constant evolution.
