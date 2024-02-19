@@ -152,9 +152,16 @@ I have implemented this project in various time series contexts, with notable ap
 - Some examples of the implemented algorithms are: Isolation Forest, One-Class SVM, k-Nearest Neighbors and Z-score.
 
 ### OCR and Natural Language Processing
-| Denoising        | Entity extraction           |
-|--------------------------|---------------------------|
-| ![Image 1](https://github.com/CristianCuadrado/portfolio/blob/main/images/denoise.jpg?raw=true) | ![Image 2](https://github.com/CristianCuadrado/portfolio/blob/main/images/entity_extraction.jpg?raw=true) |
+
+#### Denoising
+<div align="center">
+  <img src="https://github.com/CristianCuadrado/portfolio/blob/main/images/denoise.jpg?raw=true" width="300">
+</div>
+
+#### Entity extraction
+<div align="center">
+  <img src="https://github.com/CristianCuadrado/portfolio/blob/main/images/entity_extraction.jpg?raw=true" width="300">
+</div>
 
 In this project, the client requested a market study based on restaurant menus downloaded from the internet. To achieve this, I employed Optical Character Recognition (OCR) to extract the text, alongside a cleaning step to remove undesirable elements and an image classification algorithm to identify the menu format (one, two or more columns). 
 After extracting the text, I applied Natural Language Processing algorithms to extract the information relevant to their interests.
