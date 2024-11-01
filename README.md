@@ -49,6 +49,11 @@ This comprises a compilation of select projects I have executed across diverse e
 </p>
 This project was for a mobile app. It involved creating avatars from a user's photo and a reference image, using Generative AI algorithms
 
+#### Technologies
+- Python as main language.
+- Huggingface for generative models.
+- Replicate for the infrastructure.
+  
 ### Image Similarity in fashion industry
 <div align="center">
   <img src="https://github.com/CristianCuadrado/portfolio/blob/main/images/img_comparison.jpg?raw=true" width="500">
