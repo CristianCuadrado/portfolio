@@ -11,14 +11,20 @@ Motivated and adaptable, I thrive in diverse project environments, having worked
 Master in the UPC (MATT) specialized in Deep Learning applied to image, audio, text and data.
 
 ## Experience as developer
-- 8 years of experience in Machine Learning.
-- 6 years of experience in Computer Vision. Strong knowledge of OpenCV.
-- 5 years of experience in Deep Learning. Experience with Pytorch and Keras frameworks. Experience with algorithms such as Image Classification, Object Detection, Image Segmentation, CycleGan, Reinforcement Learning (DDPG), Generative algorithms, Encoder-Decoder and Recurrent Neural Networks
+- 9 years of experience in Machine Learning.
+- 7 years of experience in Computer Vision. Strong knowledge of OpenCV.
+- 6 years of experience in Deep Learning. Experience with Pytorch and Keras frame-
+works. Experience with algorithms such as Image Classification, Object Detection,
+Image Segmentation, CycleGan, Reinforcement Learning (DDPG), Generative algo-
+rithms, Encoder-Decoder and Recurrent Neural Networks.
 - 2 years of experience in research.
+- 1 year experience with Generative AI for image. I have experience with different
+algorithms such as text-to-image, image-to-image, IP-Adapter, inpainting, Control-
+Net, and LoRAs.
 - Experience in Natural Language Processing and Audio Processing.
 - Experience with Python, Matlab and R.
-- Experience with AWS and Azure.
--  Experience with SQL, NoSQL databases and Docker.
+- Experience with AWS, Google Cloud, Azure and Replicate.
+- Experience with SQL, NoSQL databases and Docker.
 
 ## Interpersonal Skills
 - Experience in dealing with clients. 
