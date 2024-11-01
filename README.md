@@ -42,9 +42,9 @@ Spanish, Catalan, English.
 This comprises a compilation of select projects I have executed across diverse enterprises.
 ### Characterization
 <p align="center">
-  <img src=""https://github.com/CristianCuadrado/portfolio/blob/main/images/img_comparison.jpg" width="200">
-  <img src=""https://github.com/CristianCuadrado/portfolio/blob/main/images/img_comparison.jpg" width="200">
-  <img src=""https://github.com/CristianCuadrado/portfolio/blob/main/images/img_comparison.jpg" width="200">
+  <img src="https://github.com/CristianCuadrado/portfolio/blob/main/images/img_comparison.jpg" width="200">
+  <img src="https://github.com/CristianCuadrado/portfolio/blob/main/images/img_comparison.jpg" width="200">
+  <img src="https://github.com/CristianCuadrado/portfolio/blob/main/images/img_comparison.jpg" width="200">
 </p>
 his project was for a mobile app. It involved creating avatars from a user's photo and a reference image, using Generative AI algorithms
 
