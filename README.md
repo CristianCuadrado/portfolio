@@ -45,7 +45,7 @@ This comprises a compilation of select projects I have executed across diverse e
   <img src="https://github.com/CristianCuadrado/portfolio/blob/main/images/viking.png?raw=true" width="200">
   <img src="https://github.com/CristianCuadrado/portfolio/blob/main/images/linkedin.png?raw=true" width="200">
   <img src="https://github.com/CristianCuadrado/portfolio/blob/main/images/american.png?raw=true" width="200">
-  <img src="https://github.com/CristianCuadrado/portfolio/blob/main/images/old_money.png?raw=true"width="200">
+  <img src="https://github.com/CristianCuadrado/portfolio/blob/main/images/old_money.png?raw=true" width="200">
 </p>
 This project was for a mobile app. It involved creating avatars from a user's photo and a reference image, using Generative AI algorithms
 
