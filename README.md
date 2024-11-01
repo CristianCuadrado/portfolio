@@ -47,7 +47,7 @@ This comprises a compilation of select projects I have executed across diverse e
   <img src="https://github.com/CristianCuadrado/portfolio/blob/main/images/american.png" width="200">
   <img src="https://github.com/CristianCuadrado/portfolio/blob/main/images/old_money.png" width="200">
 </p>
-his project was for a mobile app. It involved creating avatars from a user's photo and a reference image, using Generative AI algorithms
+This project was for a mobile app. It involved creating avatars from a user's photo and a reference image, using Generative AI algorithms
 
 ### Image Similarity in fashion industry
 <div align="center">
